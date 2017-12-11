@@ -1,0 +1,31 @@
+{
+  "name": "spaces",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "normalizr": "^3.2.4",
+    "react-router-dom": "^4.2.2",
+    "prop-types": "^15.6.0",
+    "lodash": "^4.17.4",
+    "humps": "^2.0.1",
+    "react-redux": "^5.0.6"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.17",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7",
+    "redux-devtools": "^3.4.1",
+    "redux-devtools-log-monitor": "^1.4.0",
+    "redux-devtools-dock-monitor": "^1.1.2",
+    "redux-logger": "^3.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "react-scripts test"
+  }
+}
